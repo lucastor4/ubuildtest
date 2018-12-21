@@ -21,9 +21,7 @@ page_sections:
   - template: hero-banner-w-image
     block: hero-2
     headline: TEstando bagaça <br><strong>doideras</strong>
-    content: >-
-      The tool that allows you to build beautiful sites<br>all inside Forestry's
-      content manager.
+    content: Sei não
     cta:
       enabled: true
       url: 'https://github.com/forestryio/ubuild-jekyll'
